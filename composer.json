@@ -1,0 +1,15 @@
+{
+    "name": "valladares/paypal_v1",
+    "description": "Metodo de Pagos Paypal",
+    "require": {
+        "paypal/rest-api-sdk-php": "^1.14"
+    },
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "alfredo-valladares",
+            "email": "josealfredo.developer@outlook.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
